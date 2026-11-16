@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="Piste Hunters Maroc — https://pistehunters.com (Scouted by Zakaria | Amnir)"
+  xmlns="http://www.topografix.com/GPX/1/1"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <name>Piste Hunters Maroc — High Atlas GPS Calibration Sample (5 Gateway Waypoints)</name>
+    <desc>Free GPX 1.1 calibration file containing 5 public High Atlas gateway &amp; fuel waypoints to test offline waypoint symbols, elevation tags, and WGS84 coordinate alignment in Gaia GPS, OsmAnd, and Garmin Overlander before starting Expedition Pack #01.</desc>
+    <author>
+      <name>Zakaria | Amnir — Founder &amp; Lead Scout, Piste Hunters Maroc</name>
+      <link href="https://pistehunters.com/">
+        <text>Piste Hunters Maroc — Morocco Off-Road GPX Tracks &amp; 4x4 Roadbooks</text>
+      </link>
+    </author>
+    <time>2026-11-15T08:00:00Z</time>
+  </metadata>
+  <wpt lat="32.11520" lon="-6.46280">
+    <ele>825</ele>
+    <name>PH-GATEWAY-01 Bin El Ouidane Air-Down &amp; Lake Overlook</name>
+    <desc>Public northern gateway parking near Bin El Ouidane lake. Air down tires to 1.8 bar (Crossover/Van) or 1.7 bar (4x4) and verify offline satellite tiles before entering Loop 01 or Loop 05.</desc>
+    <sym>Flag, Blue</sym>
+    <type>Gateway</type>
+  </wpt>
+  <wpt lat="31.96150" lon="-6.57100">
+    <ele>1379</ele>
+    <name>PH-FUEL-02 Azilal Regional Fuel &amp; Mechanic Hub</name>
+    <desc>Primary northern High Atlas fuel, tire repair, and mechanic town before climbing toward Aït Bouguemez Happy Valley on Loop 02.</desc>
+    <sym>Gas Station</sym>
+    <type>Fuel &amp; Supply</type>
+  </wpt>
+  <wpt lat="32.57140" lon="-6.02670">
+    <ele>1110</ele>
+    <name>PH-GATEWAY-03 El Ksiba Cedar Foothills Entry Gateway</name>
+    <desc>Public north-eastern High Atlas gateway at El Ksiba. Top up diesel/petrol to 100% before ascending onto the Aghbala and Imilchil plateaus (Loop 03 &amp; Loop 04).</desc>
+    <sym>Flag, Blue</sym>
+    <type>Gateway</type>
+  </wpt>
+  <wpt lat="31.83580" lon="-6.10510">
+    <ele>1514</ele>
+    <name>PH-SUPPLY-04 Zaouiat Ahansal Valley Village Center</name>
+    <desc>Public village center in Zaouiat Ahansal canyon. Fresh bread, water, and basic provisions before the Level 3 climb toward the 3,341m pass on Loop 01.</desc>
+    <sym>Shopping Center</sym>
+    <type>Fuel &amp; Supply</type>
+  </wpt>
+  <wpt lat="31.37250" lon="-5.99640">
+    <ele>1603</ele>
+    <name>PH-FUEL-05 Boumalne Dades Southern Gateway Fuel Station</name>
+    <desc>Southern High Atlas main fuel station and N10 gateway at Boumalne Dades prior to entering the Dades Gorges and Tisdrine switchbacks (Loop 02 &amp; Loop 03).</desc>
+    <sym>Gas Station</sym>
+    <type>Fuel &amp; Supply</type>
+  </wpt>
+</gpx>

@@ -11,10 +11,10 @@ Official open **WGS84 GPX 1.1 calibration dataset** published by **[Piste Hunter
 ---
 
 ## 1. Purpose of `Piste_Hunters_GPS_Calibration_Sample.gpx`
-Before entering zero-signal canyons in Morocco's Central and Eastern High Atlas, overlanders (4x4, Dacia Duster, AWD Campervan, and Adventure Motorcycle / Maxi-Trail riders) can import our free 5-waypoint GPX 1.1 file to verify:
-1. Offline waypoint symbol (`<sym>`) and elevation (`<ele>`) rendering in **Gaia GPS**, **OsmAnd Maps**, **Garmin Overlander / Zumo XT / Tread**, and **Organic Maps**.
+Before entering zero-signal canyons in Morocco's Central and Eastern High Atlas, overlanders (4x4, AWD Crossover / SUV, Campervan, and Adventure Motorcycle / Maxi-Trail riders) can import this free GPX 1.1 file (5 foothill gateways + 4.5 km Bin El Ouidane test track) to verify:
+1. Offline track line (`<trk>`), elevation profile (`<ele>`), and waypoint symbol (`<sym>`) rendering in **Gaia GPS**, **OsmAnd Maps**, **Garmin Overlander / Zumo XT / Tread**, and **Organic Maps**.
 2. Offline topographic contour and satellite tile caching around the 5 main High Atlas foothill gateways:
-   - `PH-GATEWAY-01`: **Bin El Ouidane Air-Down & Lake Overlook** (`825 m`)
+   - `PH-GATEWAY-01`: **Bin El Ouidane Air-Down & Lake Overlook** (`825 m`) + **4.5 km Calibration Climb (`825 m – 1,280 m`)**
    - `PH-FUEL-02`: **Azilal Regional Fuel & Mechanic Hub** (`1,379 m`)
    - `PH-GATEWAY-03`: **El Ksiba Cedar Foothills Entry Gateway** (`1,110 m`)
    - `PH-SUPPLY-04`: **Zaouiat Ahansal Valley Village Center** (`1,514 m`)
@@ -30,8 +30,8 @@ Before entering zero-signal canyons in Morocco's Central and Eastern High Atlas,
 
 ### English Field Dossiers
 1. [Cathedral Imsfrane, Zaouiat Ahansal & Aït Bouguemez Off-Road Track Guide](https://pistehunters.com/guides/cathedrale-imsfrane-ait-bouguemez-offroad-piste/)
-2. [Imilchil Lakes Isli & Tislit to Dadès & Todgha Gorges by Off-Road Piste](https://pistehunters.com/guides/imilchil-dades-todgha-gorges-offroad-route/)
-3. [Morocco Off-Road in a Dacia Duster, Crossover, or Campervan: High Atlas Guide](https://pistehunters.com/guides/morocco-offroad-duster-campervan-high-atlas-guide/)
+2. [Imilchil Lakes (Isli, Tislit) to Dadès & Todgha Gorges by Off-Road Piste](https://pistehunters.com/guides/imilchil-dades-todgha-gorges-offroad-route/)
+3. [Morocco Off-Road in an AWD Crossover, SUV, or Campervan: High Atlas Guide](https://pistehunters.com/guides/morocco-offroad-suv-campervan-high-atlas-guide/)
 4. [Gaia GPS vs. OsmAnd vs. Garmin: Best Offline GPS Navigation Setup for Morocco](https://pistehunters.com/guides/best-offline-gps-app-morocco-overlanding-gaia-osmand-garmin/)
 5. [High Atlas 3,000m+ Passes: Fuel Autonomy, Tire Pressure & Seasonal Snow Guide](https://pistehunters.com/guides/high-atlas-passes-fuel-autonomy-tire-pressure-snow-guide/)
 6. [Paper Tulip Roadbooks (Vibraction Style) vs. Offline GPX 1.1 in Morocco](https://pistehunters.com/guides/paper-roadbook-vibraction-vs-offline-gpx-morocco/)
@@ -41,8 +41,8 @@ Before entering zero-signal canyons in Morocco's Central and Eastern High Atlas,
 
 ### Dossiers Techniques en Français
 1. [Piste Cathédrale Imsfrane, Zaouiat Ahansal & Vallée d'Aït Bouguemez](https://pistehunters.com/fr/guides/piste-cathedrale-imsfrane-zaouiat-ahansal-ait-bouguemez/)
-2. [Piste Imilchil (Lacs Isli & Tislit) vers Gorges du Dadès & Todgha](https://pistehunters.com/fr/guides/piste-imilchil-gorges-dades-todgha-4x4/)
-3. [Maroc Piste en Dacia Duster, Crossover ou Van Aménagé : Guide Haut Atlas](https://pistehunters.com/fr/guides/maroc-piste-duster-van-fourgon-haut-atlas/)
+2. [Piste Imilchil (Lacs Isli, Tislit) vers Gorges du Dadès & Todgha](https://pistehunters.com/fr/guides/piste-imilchil-gorges-dades-todgha-4x4/)
+3. [Maroc Piste en SUV, Crossover ou Van Aménagé : Guide Haut Atlas](https://pistehunters.com/fr/guides/maroc-piste-suv-van-fourgon-haut-atlas/)
 4. [Gaia GPS vs OsmAnd vs Garmin : Meilleur GPS Offline pour le Maroc en 4x4](https://pistehunters.com/fr/guides/meilleur-gps-offline-maroc-4x4-gaia-osmand-garmin/)
 5. [Cols à 3 000 m+ du Haut Atlas : Autonomie Carburant, Pression Pneus & Neige](https://pistehunters.com/fr/guides/cols-haut-atlas-autonomie-carburant-pression-pneus-neige/)
 6. [Roadbook Papier (Type Vibraction) vs Trace GPX 1.1 Offline au Maroc](https://pistehunters.com/fr/guides/roadbook-vibraction-maroc-vs-trace-gpx-offline/)

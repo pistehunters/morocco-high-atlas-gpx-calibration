@@ -1,23 +1,23 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<gpx version="1.1" creator="Piste Hunters Maroc — https://pistehunters.com (Scouted by Zakaria | Amnir)"
+<gpx version="1.1" creator="Piste Hunters — https://pistehunters.com (Scouted by Zakaria | Amnir)"
   xmlns="http://www.topografix.com/GPX/1/1"
   xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
   xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
   <metadata>
-    <name>Piste Hunters Maroc — High Atlas GPS Calibration Sample (5 Gateway Waypoints)</name>
-    <desc>Free GPX 1.1 calibration file containing 5 public High Atlas gateway &amp; fuel waypoints to test offline waypoint symbols, elevation tags, and WGS84 coordinate alignment in Gaia GPS, OsmAnd, and Garmin Overlander before starting Expedition Pack #01.</desc>
+    <name>Piste Hunters — High Atlas GPS Calibration Sample (5 Gateways + 4.5 km Test Track)</name>
+    <desc>Free GPX 1.1 calibration file containing 5 public High Atlas gateway &amp; fuel waypoints plus a 4.5 km public Bin El Ouidane lake overlook test track (825m to 1,280m) to verify offline track rendering, elevation charts, and waypoint symbols in Gaia GPS, OsmAnd, and Garmin Overlander before starting Expedition Pack #01.</desc>
     <author>
-      <name>Zakaria | Amnir — Founder &amp; Lead Scout, Piste Hunters Maroc</name>
+      <name>Zakaria | Amnir — Founder &amp; Lead Scout, Piste Hunters</name>
       <link href="https://pistehunters.com/">
-        <text>Piste Hunters Maroc — Morocco Off-Road GPX Tracks &amp; 4x4 Roadbooks</text>
+        <text>Piste Hunters — Morocco Off-Road GPX Tracks &amp; 4x4 Roadbooks</text>
       </link>
     </author>
-    <time>2026-11-15T08:00:00Z</time>
+    <time>2026-11-16T08:00:00Z</time>
   </metadata>
   <wpt lat="32.11520" lon="-6.46280">
     <ele>825</ele>
     <name>PH-GATEWAY-01 Bin El Ouidane Air-Down &amp; Lake Overlook</name>
-    <desc>Public northern gateway parking near Bin El Ouidane lake. Air down tires to 1.8 bar (Crossover/Van) or 1.7 bar (4x4) and verify offline satellite tiles before entering Loop 01 or Loop 05.</desc>
+    <desc>Public northern gateway parking near Bin El Ouidane lake. Air down tires to 1.8 bar (Crossover/Van) or 1.7 bar (4x4/Moto) and verify offline satellite tiles before entering Loop 01 or Loop 05.</desc>
     <sym>Flag, Blue</sym>
     <type>Gateway</type>
   </wpt>
@@ -49,4 +49,30 @@
     <sym>Gas Station</sym>
     <type>Fuel &amp; Supply</type>
   </wpt>
+  <trk>
+    <name>PH-CALIBRATION Bin El Ouidane Lake Overlook Approach (4.5 km Test Track)</name>
+    <desc>Public 4.5 km gateway calibration climb overlooking Bin El Ouidane turquoise lake (825m to 1,280m). Use this test segment to verify track line width, color, and elevation profile rendering in Gaia GPS, OsmAnd, Garmin, and Google Earth. Full 3,184 km 5-loop network is unlocked inside Expedition Pack #01 at https://pistehunters.com/packs/high-atlas-pack-01/</desc>
+    <type>Calibration Track</type>
+    <trkseg>
+      <trkpt lat="32.11520" lon="-6.46280"><ele>825</ele></trkpt>
+      <trkpt lat="32.11440" lon="-6.46090"><ele>842</ele></trkpt>
+      <trkpt lat="32.11350" lon="-6.45880"><ele>864</ele></trkpt>
+      <trkpt lat="32.11240" lon="-6.45670"><ele>888</ele></trkpt>
+      <trkpt lat="32.11120" lon="-6.45490"><ele>915</ele></trkpt>
+      <trkpt lat="32.10990" lon="-6.45310"><ele>941</ele></trkpt>
+      <trkpt lat="32.10860" lon="-6.45120"><ele>968</ele></trkpt>
+      <trkpt lat="32.10740" lon="-6.44910"><ele>995</ele></trkpt>
+      <trkpt lat="32.10610" lon="-6.44720"><ele>1024</ele></trkpt>
+      <trkpt lat="32.10480" lon="-6.44550"><ele>1052</ele></trkpt>
+      <trkpt lat="32.10350" lon="-6.44360"><ele>1081</ele></trkpt>
+      <trkpt lat="32.10210" lon="-6.44180"><ele>1110</ele></trkpt>
+      <trkpt lat="32.10080" lon="-6.43990"><ele>1138</ele></trkpt>
+      <trkpt lat="32.09950" lon="-6.43810"><ele>1166</ele></trkpt>
+      <trkpt lat="32.09820" lon="-6.43620"><ele>1194</ele></trkpt>
+      <trkpt lat="32.09690" lon="-6.43440"><ele>1221</ele></trkpt>
+      <trkpt lat="32.09560" lon="-6.43250"><ele>1246</ele></trkpt>
+      <trkpt lat="32.09430" lon="-6.43070"><ele>1265</ele></trkpt>
+      <trkpt lat="32.09310" lon="-6.42890"><ele>1280</ele></trkpt>
+    </trkseg>
+  </trk>
 </gpx>
